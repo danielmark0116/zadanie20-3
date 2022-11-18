@@ -19,6 +19,6 @@
   "homepage": "https://github.com/danielmark0116/zadanie20-3#readme",
   "dependencies": {
     "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.7"
+    "webpack-cli": "^3.3.12"
   }
 }
